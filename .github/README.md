@@ -8,8 +8,8 @@
 
 ## 🌟 Preview
 
-![Preview1](https://github.com/nocsi/astronvim_user/blob/master/.github/assets/overview.png)
-![Preview2](https://github.com/nocsi/astronvim_user/blob/master/.github/assets/vertsplit.png)
+![Preview1](https://github.com/nocsi/astronvim_user/blob/main/.github/assets/overview.png)
+![Preview2](https://github.com/nocsi/astronvim_user/blob/main/.github/assets/vertsplit.png)
 
 ## 🛠 Installation
 
